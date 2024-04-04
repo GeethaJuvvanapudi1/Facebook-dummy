@@ -1,0 +1,7 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items:right; 
+    height: 100vh; 
+}
+
